@@ -11,4 +11,8 @@ This is a Netflix Clone project built using HTML and CSS. It replicates the user
 ## 🛠️ Technologies Used
 
 - **HTML:** Structure of the web pages.
-- **CSS:** Styling and layout of the web pages.
+- **CSS:** Styling and layout of the web pages , Flexbox for layout, hover effects for interactivity and media queries for responsiveness.
+
+
+## 📸 Screenshot
+![Netflix Clone Screenshot](url_to_image.png)
