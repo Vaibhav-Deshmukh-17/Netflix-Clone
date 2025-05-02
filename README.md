@@ -15,6 +15,6 @@ This is a Netflix Clone project built using HTML and CSS. It replicates the user
 
 
 ## 📸 Screenshot
-![Netflix Clone Screenshot](https://github.com/Vaibhav-Deshmukh-17/Netflix-Clone/blob/main/Screenshots/Screenshot_20250502_124212.png))
-![Netflix Clone Screenshot](https://github.com/Vaibhav-Deshmukh-17/Netflix-Clone/blob/main/Screenshots/Screenshot_20250502_124244.png))
-![Netflix Clone Screenshot](https://github.com/Vaibhav-Deshmukh-17/Netflix-Clone/blob/main/Screenshots/Screenshot_20250502_124308.png))
+![Netflix Clone Screenshot](https://raw.githubusercontent.com/Vaibhav-Deshmukh-17/Netflix-Clone/main/Screenshots/Screenshot_20250502_124212.png)
+![Netflix Clone Screenshot](https://raw.githubusercontent.com/Vaibhav-Deshmukh-17/Netflix-Clone/main/Screenshots/Screenshot_20250502_124244.png)
+![Netflix Clone Screenshot](https://raw.githubusercontent.com/Vaibhav-Deshmukh-17/Netflix-Clone/main/Screenshots/Screenshot_20250502_124308.png)
