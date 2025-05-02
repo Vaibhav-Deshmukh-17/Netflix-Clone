@@ -16,3 +16,5 @@ This is a Netflix Clone project built using HTML and CSS. It replicates the user
 
 ## 📸 Screenshot
 ![Netflix Clone Screenshot](url_to_image.png)
+![Netflix Clone Screenshot](url_to_image.png)
+![Netflix Clone Screenshot](url_to_image.png)
